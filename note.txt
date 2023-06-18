@@ -1,0 +1,6 @@
+front end
+4 technology that is used to create front end:
+html--content loading
+css--designing
+bootstrap--framework of css
+java script--convert static web pages to dyanamic
